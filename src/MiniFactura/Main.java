@@ -16,5 +16,6 @@ public class Main {
 
         Factura factura1 = new Factura(nombre, precio, cantidad);
         factura1.mostrarFactura();
+        //s
     }
 }
